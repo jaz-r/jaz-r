@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @jaz-r
-- 👀 I’m interested in data analytics!
-- 🌱 I’m currently learning more about data analytics, including how to use Python and R for data projects.
-- 💞️ I’m looking to collaborate on data analytics projects, especially those involving Python or R.
+- 👋 Hi, I’m @jaz-r!
+- 👀 I’m interested in data science and analytics!
+- 🌱 I’m currently learning more about data science, including how to use Python and statistics.
+- 💞️ I’m looking to collaborate on data science projects and am seeking to transition into this field!
 - 📫 You can reach me by sending me a message!
 
 <!---
